@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="768"
+   id="svg2"
+   inkscape:label="Pozadí"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="level7.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="D:\documents\cvut\07 semestr\Y36PHA\semestralka\level6.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective9" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="462.45252"
+     inkscape:cy="381.88711"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     showborder="true"
+     borderlayer="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8" />
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#000092;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99534851px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2391"
+       width="1023.8893"
+       height="767.88782"
+       x="0.14865896"
+       y="0.12196544" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Letiště"
+     style="display:inline">
+    <g
+       id="g2560"
+       transform="matrix(0,1,-1,0,924.51393,-0.183578)">
+      <rect
+         y="344.88895"
+         x="1.4915507"
+         height="20.507822"
+         width="42.731174"
+         id="rect3174"
+         style="fill:none;fill-opacity:1;stroke:#c2c2ff;stroke-width:2.69522905;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
+      <g
+         id="g3200">
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 45.535714,344.07142 L 341.96428,307.28571 L 341.96428,307.28571 L 341.96428,403"
+           id="path3176" />
+        <path
+           id="path3178"
+           d="M 45.625,366.25893 L 342.05357,403.04464 L 342.05357,403.04464"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="translate(0,74)"
+       id="g3404">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#c2c2ff;stroke-width:2.69522905;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="rect3406"
+         width="42.731174"
+         height="20.507822"
+         x="1.4915507"
+         y="344.88895" />
+      <g
+         id="g3408">
+        <path
+           id="path3410"
+           d="M 45.535714,344.07142 L 341.96428,307.28571 L 341.96428,307.28571 L 341.96428,403"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 45.625,366.25893 L 342.05357,403.04464 L 342.05357,403.04464"
+           id="path3412" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Exity"
+     style="opacity:1;display:inline">
+    <g
+       id="g3211"
+       style="stroke:#ffffff;stroke-opacity:1"
+       transform="translate(-52.043161,347.40483)">
+      <path
+         id="path3207"
+         d="M 1055.7143,318 L 1074.2857,318 L 1074.2857,342.28571"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 1055.7143,342.28571 L 1074.2857,342.28571 L 1074.2857,318"
+         id="path3209" />
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,454.81398,1076.5477)"
+       style="stroke:#ffffff;stroke-opacity:1"
+       id="g2492">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 1055.7143,318 L 1074.2857,318 L 1074.2857,342.28571"
+         id="path2494" />
+      <path
+         id="path2496"
+         d="M 1055.7143,342.28571 L 1074.2857,342.28571 L 1074.2857,318"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,-1,1075.0997,989.6905)"
+       style="stroke:#ffffff;stroke-opacity:1"
+       id="g2542"
+       inkscape:transform-center-x="-492.85714"
+       inkscape:transform-center-y="220">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 1055.7143,318 L 1074.2857,318 L 1074.2857,342.28571"
+         id="path2544" />
+      <path
+         id="path2546"
+         d="M 1055.7143,342.28571 L 1074.2857,342.28571 L 1074.2857,318"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Letadla"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="1148.5714"
+       y="276.21429"
+       id="text3222"><tspan
+         sodipodi:role="line"
+         id="tspan3224"
+         x="1148.5714"
+         y="276.21429" /></text>
+    <g
+       id="g2577"
+       transform="translate(-480,260)">
+      <path
+         id="path3220"
+         d="M 627.3618,390.3004 L 604.1475,390.3004"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         transform="scale(-1,1)"
+         y="384.75986"
+         x="-636.96356"
+         height="11.111678"
+         width="11.111678"
+         id="rect3218"
+         style="font-size:8px;fill:#e6e6ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text3226"
+         y="403.05038"
+         x="605.18811"
+         style="font-size:8px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:8px;fill:#ffffff;fill-opacity:1"
+           y="403.05038"
+           x="605.18811"
+           id="tspan3228"
+           sodipodi:role="line">CSA123</tspan><tspan
+           id="tspan3238"
+           style="font-size:8px;fill:#ffffff;fill-opacity:1"
+           y="413.05038"
+           x="605.18811"
+           sodipodi:role="line">25     60</tspan></text>
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,511.49448,1100.5452)"
+       id="g2498"
+       inkscape:transform-center-x="14.194092">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 968.2493,268.44325 L 991.4636,268.44325"
+         id="path2500" />
+      <rect
+         style="font-size:8px;fill:#e6e6ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2502"
+         width="11.111678"
+         height="11.111678"
+         x="958.64752"
+         y="262.90271" />
+      <text
+         xml:space="preserve"
+         style="font-size:8px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         x="960.18811"
+         y="281.19324"
+         id="text2504"><tspan
+           sodipodi:role="line"
+           id="tspan2506"
+           x="960.18811"
+           y="281.19324"
+           style="font-size:8px;fill:#ffffff;fill-opacity:1">CSA123</tspan><tspan
+           sodipodi:role="line"
+           x="960.18811"
+           y="291.19324"
+           style="font-size:8px;fill:#ffffff;fill-opacity:1"
+           id="tspan2508">25     60</tspan></text>
+    </g>
+    <g
+       transform="translate(-5,410.42857)"
+       id="g2510">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 968.2493,268.44325 L 991.4636,268.44325"
+         id="path2512" />
+      <rect
+         style="font-size:8px;fill:#e6e6ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2514"
+         width="11.111678"
+         height="11.111678"
+         x="958.64752"
+         y="262.90271" />
+      <text
+         xml:space="preserve"
+         style="font-size:8px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         x="960.18811"
+         y="281.19324"
+         id="text2516"><tspan
+           sodipodi:role="line"
+           id="tspan2518"
+           x="960.18811"
+           y="281.19324"
+           style="font-size:8px;fill:#ffffff;fill-opacity:1">CSA123</tspan><tspan
+           sodipodi:role="line"
+           x="960.18811"
+           y="291.19324"
+           style="font-size:8px;fill:#ffffff;fill-opacity:1"
+           id="tspan2520">25     60</tspan></text>
+    </g>
+    <g
+       id="g2548"
+       transform="matrix(0,1,-1,0,837.4024,-577.78019)">
+      <path
+         id="path2550"
+         d="M 968.2493,268.44325 L 991.4636,268.44325"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="262.90271"
+         x="958.64752"
+         height="11.111678"
+         width="11.111678"
+         id="rect2552"
+         style="font-size:8px;fill:#e6e6ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2554"
+         y="281.19324"
+         x="960.18811"
+         style="font-size:8px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:8px;fill:#ffffff;fill-opacity:1"
+           y="281.19324"
+           x="960.18811"
+           id="tspan2556"
+           sodipodi:role="line">CSA123</tspan><tspan
+           id="tspan2558"
+           style="font-size:8px;fill:#ffffff;fill-opacity:1"
+           y="291.19324"
+           x="960.18811"
+           sodipodi:role="line">25     60</tspan></text>
+    </g>
+    <g
+       transform="translate(-534.99996,160.42857)"
+       id="g3432"
+       inkscape:export-filename="D:\documents\cvut\07 semestr\Y36PHA\semestralka\level5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 968.2493,268.44325 L 991.4636,268.44325"
+         id="path3434" />
+      <rect
+         style="font-size:8px;fill:#e6e6ff;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3436"
+         width="11.111678"
+         height="11.111678"
+         x="958.64752"
+         y="262.90271" />
+      <text
+         xml:space="preserve"
+         style="font-size:8px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         x="960.18811"
+         y="281.19324"
+         id="text3438"><tspan
+           sodipodi:role="line"
+           id="tspan3440"
+           x="960.18811"
+           y="281.19324"
+           style="font-size:8px;fill:#ffffff;fill-opacity:1">CSA123</tspan><tspan
+           sodipodi:role="line"
+           x="960.18811"
+           y="291.19324"
+           style="font-size:8px;fill:#ffffff;fill-opacity:1"
+           id="tspan3442">25     60</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Bouřka"
+     style="display:none">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.43370748;stroke-miterlimit:4;stroke-dasharray:1.43370742, 1.43370742;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       d="M 306.42018,542.31596 C 297.64588,543.10016 288.8373,545.35413 281.31576,550.08076 C 274.26648,554.3719 269.66508,561.65153 266.78235,569.21897 C 264.31069,576.00303 262.43632,583.05415 260.2093,589.94612 C 257.41173,599.28895 254.41006,608.62397 252.86416,618.2757 C 252.37951,621.19217 252.40439,624.24799 253.62905,626.99046 C 255.5831,631.73921 258.94463,635.70448 261.68913,639.99807 C 271.9208,654.90341 282.97615,669.6556 297.48191,680.69112 C 305.64933,686.75637 316.04857,690.23848 326.25517,688.8433 C 337.95042,687.51441 348.72219,680.76395 355.552,671.25419 C 365.67236,658.08938 372.46482,642.75147 382.33924,629.41704 C 387.47161,622.00955 392.83785,614.29021 394.41327,605.23034 C 396.2314,594.89357 392.91072,583.91387 385.93606,576.16625 C 381.1302,570.57833 374.69245,566.77025 367.99598,563.86526 C 353.93157,557.09984 338.91046,552.66743 324.57386,546.54564 C 318.7857,544.25606 312.74204,542.06016 306.42018,542.31596 z"
+       id="path2608" />
+    <path
+       id="path3484"
+       d="M 666.42018,69.458818 C 657.64588,70.243018 648.8373,72.496988 641.31576,77.223616 C 634.26648,81.51476 629.66508,88.79439 626.78235,96.36183 C 624.31069,103.14589 622.43632,110.19701 620.2093,117.08898 C 617.41173,126.43181 614.41006,135.76683 612.86416,145.41856 C 612.37951,148.33503 612.40439,151.39085 613.62905,154.13332 C 615.5831,158.88207 618.94463,162.84734 621.68913,167.14093 C 631.9208,182.04627 642.97615,196.79846 657.48191,207.83398 C 665.64933,213.89923 676.04857,217.38134 686.25517,215.98616 C 697.95042,214.65727 708.72219,207.90681 715.552,198.39705 C 725.67236,185.23224 732.46482,169.89433 742.33924,156.5599 C 747.47161,149.15241 752.83785,141.43307 754.41327,132.3732 C 756.2314,122.03643 752.91072,111.05673 745.93606,103.30911 C 741.1302,97.72119 734.69245,93.91311 727.99598,91.00812 C 713.93157,84.2427 698.91046,79.810286 684.57386,73.688498 C 678.7857,71.398918 672.74204,69.203018 666.42018,69.458818 z"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.43370748;stroke-miterlimit:4;stroke-dasharray:1.43370742, 1.43370742;stroke-dashoffset:0;stroke-opacity:1;display:inline" />
+  </g>
+</svg>

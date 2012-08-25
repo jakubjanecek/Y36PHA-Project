@@ -1,0 +1,134 @@
+html{
+	background-color:#9cf;
+}
+
+
+body{
+	margin:		0px;
+}
+
+
+
+h1{
+	background-color:	rgb(56,84,158);
+	background-image:	url('img/banner.jpg');
+	background-position:	center center;
+
+	height:		200px;
+	margin:		0px;
+	//padding:	20px 10px 10px;
+
+	color:		rgb(100,100,150);
+	font-family:	Impact, Calibri, Arial, sans-serif;
+	text-align:	center;
+
+	font-size:	2.5em;
+}
+
+
+
+h2{
+	font-family:	Impact, Calibri, Arial, sans-serif;
+	text-decoration:underline;
+}
+
+h3{
+	font-family:	Impact, Calibri, Arial, sans-serif;
+	text-decoration:underline;
+}
+
+
+div#navigace{
+	background-color:	rgb(50,50,150);
+
+	margin:		0px;
+	padding:	5px;
+
+	color:		yellow;
+	font-family:	Impact, Calibri, Arial, sans-serif;
+	text-align:	center;
+
+}
+
+
+
+div#obsah{
+	background-color:	rgb(255,255,255);
+
+	margin:		0% 15%;
+	padding:	1em;
+
+	font-family:	Calibri, Arial, sans-serif;
+	text-align:	center;
+
+}
+
+
+div.team_member{
+	background-image:	url('img/member_background3.jpg');
+	background-position:	bottom right;
+	background-repeat:	no-repeat;
+
+	margin:		1em 25%;
+	padding:	1em;
+	border:		1px solid;
+	height:		150px;
+
+	text-align:	left;
+
+	position:	relative;	// kvùli FOTO
+}
+
+
+
+img.foto{
+	position:	absolute;
+	right:		1em;
+	top:		1.5em;
+
+	border:		1px solid;
+}
+
+
+
+span {
+	font-weight:	bold;
+}
+
+.mail {
+	font-size:	0.8em;
+	font-style:	italic;
+}
+
+
+
+a{
+	color:		rgb(255,0,0);
+}
+
+a:hover{
+	color:		rgb(150,0,0);
+}
+
+a:selected{
+	color:		rgb(255,0,0);
+}
+
+
+
+div#navigace>a{
+	color:		rgb(100,100,150);
+}
+div#navigace>a:hover{
+	color:		rgb(120,120,180);
+}
+
+
+
+a>img{
+	color:		black;
+}
+
+a>img:hover{
+	color:		#9cf;
+}

@@ -1,0 +1,2663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Main screen.jpg</Source>
+      <Name>Main screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Main screen.xnb</Output>
+      <Time>2009-11-03T21:20:42.9300783+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu panel.png</Source>
+      <Name>Menu panel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Menu panel.xnb</Output>
+      <Time>2009-11-03T21:20:42.9525787+01:00</Time>
+    </Item>
+    <Item>
+      <Source>white.png</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\white.xnb</Output>
+      <Time>2009-11-01T13:15:50.5009755+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Runway1m5.png</Source>
+      <Name>Runway1m5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Runway1m5.xnb</Output>
+      <Time>2009-11-04T18:04:21.4395455+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Runway2m.png</Source>
+      <Name>Runway2m</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Runway2m.xnb</Output>
+      <Time>2009-11-04T18:04:21.4170452+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Runway2m5.png</Source>
+      <Name>Runway2m5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Runway2m5.xnb</Output>
+      <Time>2009-11-04T18:04:21.4595458+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit.png</Source>
+      <Name>Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Exit.xnb</Output>
+      <Time>2009-11-23T09:57:44.4588971+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CourseSetter.PNG</Source>
+      <Name>CourseSetter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\CourseSetter.xnb</Output>
+      <Time>2009-11-23T22:23:00.6780546+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.png</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\gameover.xnb</Output>
+      <Time>2009-11-27T17:43:58.1836398+01:00</Time>
+    </Item>
+    <Item>
+      <Source>levelfinished.png</Source>
+      <Name>levelfinished</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\levelfinished.xnb</Output>
+      <Time>2009-11-27T18:25:20.5871135+01:00</Time>
+    </Item>
+    <Item>
+      <Source>congrats.png</Source>
+      <Name>congrats</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\congrats.xnb</Output>
+      <Time>2009-11-27T20:33:16.3537451+01:00</Time>
+    </Item>
+    <Item>
+      <Source>scorehud.png</Source>
+      <Name>scorehud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\scorehud.xnb</Output>
+      <Time>2009-11-27T21:33:32.633292+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ControlPanel.PNG.jpg</Source>
+      <Name>ControlPanel.PNG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\ControlPanel.PNG.xnb</Output>
+      <Time>2009-12-03T20:26:27.2022458+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747\B747side.jpg</Source>
+      <Name>Modely\747\B747side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747\B747side.xnb</Output>
+      <Time>2009-12-06T10:43:38.5123877+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747\B747silv.jpg</Source>
+      <Name>Modely\747\B747silv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747\B747silv.xnb</Output>
+      <Time>2009-12-06T10:43:38.4499876+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747\B747taib.jpg</Source>
+      <Name>Modely\747\B747taib</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747\B747taib.xnb</Output>
+      <Time>2009-12-06T10:43:38.4655876+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747\B747tail.jpg</Source>
+      <Name>Modely\747\B747tail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747\B747tail.xnb</Output>
+      <Time>2009-12-06T10:43:38.5279877+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340\A321-motor-AirFrance.JPG</Source>
+      <Name>Modely\A340\A321-motor-AirFrance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340\A321-motor-AirFrance.xnb</Output>
+      <Time>2009-12-06T10:43:40.1347905+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340\A340-300-AIRFRANCE-M.JPG</Source>
+      <Name>Modely\A340\A340-300-AIRFRANCE-M</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340\A340-300-AIRFRANCE-M.xnb</Output>
+      <Time>2009-12-06T10:43:40.1191905+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340\A340-300-AIRFRANCE.JPG</Source>
+      <Name>Modely\A340\A340-300-AIRFRANCE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340\A340-300-AIRFRANCE.xnb</Output>
+      <Time>2009-12-06T10:43:40.1503906+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340\A340-300-WING.JPG</Source>
+      <Name>Modely\A340\A340-300-WING</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340\A340-300-WING.xnb</Output>
+      <Time>2009-12-06T10:43:40.1347905+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\Bumpalas.tga</Source>
+      <Name>Modely\Cesna\Bumpalas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\Bumpalas.xnb</Output>
+      <Time>2009-12-06T10:43:42.0223939+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\Bumpalit.tga</Source>
+      <Name>Modely\Cesna\Bumpalit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\Bumpalit.xnb</Output>
+      <Time>2009-12-06T10:43:41.9443937+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\Lateral2.tga</Source>
+      <Name>Modely\Cesna\Lateral2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\Lateral2.xnb</Output>
+      <Time>2009-12-06T10:43:41.8663936+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\Mapalas1.tga</Source>
+      <Name>Modely\Cesna\Mapalas1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\Mapalas1.xnb</Output>
+      <Time>2009-12-06T10:43:41.9911938+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\Mapalit.tga</Source>
+      <Name>Modely\Cesna\Mapalit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\Mapalit.xnb</Output>
+      <Time>2009-12-06T10:43:41.8819936+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\Maplate1.tga</Source>
+      <Name>Modely\Cesna\Maplate1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\Maplate1.xnb</Output>
+      <Time>2009-12-12T10:34:15.3566525+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\Maplate2.tga</Source>
+      <Name>Modely\Cesna\Maplate2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\Maplate2.xnb</Output>
+      <Time>2009-12-12T10:34:15.3410524+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\Rueda.tga</Source>
+      <Name>Modely\Cesna\Rueda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\Rueda.xnb</Output>
+      <Time>2009-12-06T10:43:42.0067938+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ControlPanel.png</Source>
+      <Name>ControlPanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\ControlPanel.xnb</Output>
+      <Time>2009-12-06T16:20:55.0741484+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\grass.dds</Source>
+      <Name>Terrain\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\grass.xnb</Output>
+      <Time>2009-12-06T21:45:44.5690968+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\rock.dds</Source>
+      <Name>Terrain\rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\rock.xnb</Output>
+      <Time>2009-12-06T21:45:44.5378967+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\sand.dds</Source>
+      <Name>Terrain\sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\sand.xnb</Output>
+      <Time>2009-12-06T21:45:44.6314969+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\snow.dds</Source>
+      <Name>Terrain\snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\snow.xnb</Output>
+      <Time>2009-12-06T21:45:44.4910967+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\tree.dds</Source>
+      <Name>Terrain\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\tree.xnb</Output>
+      <Time>2009-12-06T21:45:44.5846968+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\waterbump.dds</Source>
+      <Name>Terrain\waterbump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\waterbump.xnb</Output>
+      <Time>2009-12-06T21:45:44.5066967+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\cloudMap.jpg</Source>
+      <Name>Terrain\cloudMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\cloudMap.xnb</Output>
+      <Time>2009-12-06T21:45:44.5066967+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\treeMap.jpg</Source>
+      <Name>Terrain\treeMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\treeMap.xnb</Output>
+      <Time>2009-12-06T21:45:44.6158969+01:00</Time>
+    </Item>
+    <Item>
+      <Source>RunwayTexture.PNG</Source>
+      <Name>RunwayTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\RunwayTexture.xnb</Output>
+      <Time>2009-12-08T15:09:19.8164609+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_BRI\B747silv.jpg</Source>
+      <Name>Modely\747_BRI\B747silv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_BRI\B747silv.xnb</Output>
+      <Time>2009-12-08T15:09:19.6604606+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_BRI\B747taib.jpg</Source>
+      <Name>Modely\747_BRI\B747taib</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_BRI\B747taib.xnb</Output>
+      <Time>2009-12-08T15:09:19.6760606+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_BRI\B747tail.jpg</Source>
+      <Name>Modely\747_BRI\B747tail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_BRI\B747tail.xnb</Output>
+      <Time>2009-12-08T15:09:19.6916606+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_BRI\B747side.jpg</Source>
+      <Name>Modely\747_BRI\B747side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_BRI\B747side.xnb</Output>
+      <Time>2009-12-13T14:08:39.0859504+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_CSA\B747side.jpg</Source>
+      <Name>Modely\747_CSA\B747side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_CSA\B747side.xnb</Output>
+      <Time>2009-12-08T15:09:16.3376548+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_CSA\B747silv.jpg</Source>
+      <Name>Modely\747_CSA\B747silv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_CSA\B747silv.xnb</Output>
+      <Time>2009-12-08T15:09:16.2908547+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_CSA\B747taib.jpg</Source>
+      <Name>Modely\747_CSA\B747taib</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_CSA\B747taib.xnb</Output>
+      <Time>2009-12-08T15:09:16.3220547+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_CSA\B747tail.jpg</Source>
+      <Name>Modely\747_CSA\B747tail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_CSA\B747tail.xnb</Output>
+      <Time>2009-12-08T15:09:16.3532548+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_OCN\B747side.jpg</Source>
+      <Name>Modely\747_OCN\B747side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_OCN\B747side.xnb</Output>
+      <Time>2009-12-08T15:09:12.0164472+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_OCN\B747silv.jpg</Source>
+      <Name>Modely\747_OCN\B747silv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_OCN\B747silv.xnb</Output>
+      <Time>2009-12-08T15:09:11.9852471+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_OCN\B747taib.jpg</Source>
+      <Name>Modely\747_OCN\B747taib</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_OCN\B747taib.xnb</Output>
+      <Time>2009-12-08T15:09:12.0008471+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_OCN\B747tail.jpg</Source>
+      <Name>Modely\747_OCN\B747tail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_OCN\B747tail.xnb</Output>
+      <Time>2009-12-08T15:09:12.0164472+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_DEL\B747side.jpg</Source>
+      <Name>Modely\747_DEL\B747side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_DEL\B747side.xnb</Output>
+      <Time>2009-12-08T15:09:14.8088521+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_DEL\B747silv.jpg</Source>
+      <Name>Modely\747_DEL\B747silv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_DEL\B747silv.xnb</Output>
+      <Time>2009-12-08T15:09:14.777652+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_DEL\B747taib.jpg</Source>
+      <Name>Modely\747_DEL\B747taib</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_DEL\B747taib.xnb</Output>
+      <Time>2009-12-08T15:09:14.793252+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_DEL\B747tail.jpg</Source>
+      <Name>Modely\747_DEL\B747tail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_DEL\B747tail.xnb</Output>
+      <Time>2009-12-08T15:09:14.8088521+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_ATL\B747side.jpg</Source>
+      <Name>Modely\747_ATL\B747side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_ATL\B747side.xnb</Output>
+      <Time>2009-12-08T15:09:13.3424495+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_ATL\B747silv.jpg</Source>
+      <Name>Modely\747_ATL\B747silv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_ATL\B747silv.xnb</Output>
+      <Time>2009-12-08T15:09:13.3268495+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_ATL\B747taib.jpg</Source>
+      <Name>Modely\747_ATL\B747taib</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_ATL\B747taib.xnb</Output>
+      <Time>2009-12-08T15:09:13.3424495+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_ATL\B747tail.jpg</Source>
+      <Name>Modely\747_ATL\B747tail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_ATL\B747tail.xnb</Output>
+      <Time>2009-12-08T15:09:13.3736496+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Blesk.png</Source>
+      <Name>Blesk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Blesk.xnb</Output>
+      <Time>2009-12-09T14:49:10.7375646+01:00</Time>
+    </Item>
+    <Item>
+      <Source>RedArrow.png</Source>
+      <Name>RedArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\RedArrow.xnb</Output>
+      <Time>2009-12-09T14:49:10.8155648+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Storm.png</Source>
+      <Name>Storm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Storm.xnb</Output>
+      <Time>2009-12-09T14:49:10.7531646+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\heightmap1.bmp</Source>
+      <Name>Terrain\heightmap1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\heightmap1.xnb</Output>
+      <Time>2009-12-12T23:07:24.8103133+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\heightmap10.bmp</Source>
+      <Name>Terrain\heightmap10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\heightmap10.xnb</Output>
+      <Time>2009-12-12T23:07:24.8103133+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\heightmap2.bmp</Source>
+      <Name>Terrain\heightmap2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\heightmap2.xnb</Output>
+      <Time>2009-12-12T23:07:24.8571134+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\heightmap3.bmp</Source>
+      <Name>Terrain\heightmap3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\heightmap3.xnb</Output>
+      <Time>2009-12-12T23:07:24.8727134+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\heightmap4.bmp</Source>
+      <Name>Terrain\heightmap4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\heightmap4.xnb</Output>
+      <Time>2009-12-12T23:07:24.8883134+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\heightmap5.bmp</Source>
+      <Name>Terrain\heightmap5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\heightmap5.xnb</Output>
+      <Time>2009-12-12T23:07:24.9039135+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\heightmap6.bmp</Source>
+      <Name>Terrain\heightmap6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\heightmap6.xnb</Output>
+      <Time>2009-12-13T14:08:31.7383375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\heightmap7.bmp</Source>
+      <Name>Terrain\heightmap7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\heightmap7.xnb</Output>
+      <Time>2009-12-12T23:07:24.9195135+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\heightmap8.bmp</Source>
+      <Name>Terrain\heightmap8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\heightmap8.xnb</Output>
+      <Time>2009-12-12T23:07:24.9351135+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\heightmap9.bmp</Source>
+      <Name>Terrain\heightmap9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\heightmap9.xnb</Output>
+      <Time>2009-12-12T23:07:24.9351135+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_ATL\A321-motor-AirFrance.JPG</Source>
+      <Name>Modely\A340_ATL\A321-motor-AirFrance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_ATL\A321-motor-AirFrance.xnb</Output>
+      <Time>2009-12-13T14:08:36.9175466+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_ATL\A340-300-AIRFRANCE-M.JPG</Source>
+      <Name>Modely\A340_ATL\A340-300-AIRFRANCE-M</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_ATL\A340-300-AIRFRANCE-M.xnb</Output>
+      <Time>2009-12-13T14:08:36.9019466+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_ATL\A340-300-AIRFRANCE.JPG</Source>
+      <Name>Modely\A340_ATL\A340-300-AIRFRANCE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_ATL\A340-300-AIRFRANCE.xnb</Output>
+      <Time>2009-12-13T14:08:36.9175466+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_ATL\A340-300-WING.JPG</Source>
+      <Name>Modely\A340_ATL\A340-300-WING</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_ATL\A340-300-WING.xnb</Output>
+      <Time>2009-12-13T14:08:36.9019466+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_BRI\A321-motor-AirFrance.JPG</Source>
+      <Name>Modely\A340_BRI\A321-motor-AirFrance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_BRI\A321-motor-AirFrance.xnb</Output>
+      <Time>2009-12-13T14:08:35.1235435+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_BRI\A340-300-AIRFRANCE-M.JPG</Source>
+      <Name>Modely\A340_BRI\A340-300-AIRFRANCE-M</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_BRI\A340-300-AIRFRANCE-M.xnb</Output>
+      <Time>2009-12-13T14:08:35.1079434+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_BRI\A340-300-AIRFRANCE.JPG</Source>
+      <Name>Modely\A340_BRI\A340-300-AIRFRANCE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_BRI\A340-300-AIRFRANCE.xnb</Output>
+      <Time>2009-12-13T14:08:35.1391435+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_BRI\A340-300-WING.JPG</Source>
+      <Name>Modely\A340_BRI\A340-300-WING</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_BRI\A340-300-WING.xnb</Output>
+      <Time>2009-12-13T14:08:35.1235435+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_CSA\A321-motor-AirFrance.JPG</Source>
+      <Name>Modely\A340_CSA\A321-motor-AirFrance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_CSA\A321-motor-AirFrance.xnb</Output>
+      <Time>2009-12-13T14:08:42.1435558+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_CSA\A340-300-AIRFRANCE-M.JPG</Source>
+      <Name>Modely\A340_CSA\A340-300-AIRFRANCE-M</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_CSA\A340-300-AIRFRANCE-M.xnb</Output>
+      <Time>2009-12-13T14:08:42.1279558+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_CSA\A340-300-AIRFRANCE.JPG</Source>
+      <Name>Modely\A340_CSA\A340-300-AIRFRANCE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_CSA\A340-300-AIRFRANCE.xnb</Output>
+      <Time>2009-12-13T14:08:42.1591558+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_CSA\A340-300-WING.JPG</Source>
+      <Name>Modely\A340_CSA\A340-300-WING</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_CSA\A340-300-WING.xnb</Output>
+      <Time>2009-12-13T14:08:42.1435558+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_DEL\A321-motor-AirFrance.JPG</Source>
+      <Name>Modely\A340_DEL\A321-motor-AirFrance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_DEL\A321-motor-AirFrance.xnb</Output>
+      <Time>2009-12-13T14:08:38.8675501+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_DEL\A340-300-AIRFRANCE-M.JPG</Source>
+      <Name>Modely\A340_DEL\A340-300-AIRFRANCE-M</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_DEL\A340-300-AIRFRANCE-M.xnb</Output>
+      <Time>2009-12-13T14:08:38.6179496+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_DEL\A340-300-AIRFRANCE.JPG</Source>
+      <Name>Modely\A340_DEL\A340-300-AIRFRANCE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_DEL\A340-300-AIRFRANCE.xnb</Output>
+      <Time>2009-12-13T14:08:38.9143501+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_DEL\A340-300-WING.JPG</Source>
+      <Name>Modely\A340_DEL\A340-300-WING</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_DEL\A340-300-WING.xnb</Output>
+      <Time>2009-12-13T14:08:38.6335496+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CallSign.spritefont</Source>
+      <Name>CallSign</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\CallSign.xnb</Output>
+      <Time>2009-11-07T12:12:10.4954998+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuHeadline.spritefont</Source>
+      <Name>MenuHeadline</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\MenuHeadline.xnb</Output>
+      <Time>2009-11-03T21:20:42.9575788+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuItem.spritefont</Source>
+      <Name>MenuItem</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\MenuItem.xnb</Output>
+      <Time>2009-11-03T21:20:42.9175782+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD14.spritefont</Source>
+      <Name>HUD14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\HUD14.xnb</Output>
+      <Time>2009-11-23T22:23:00.6440526+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD20.spritefont</Source>
+      <Name>HUD20</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\HUD20.xnb</Output>
+      <Time>2009-11-23T22:23:00.703056+01:00</Time>
+    </Item>
+    <Item>
+      <Source>0.wav</Source>
+      <Name>0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\0.xnb</Output>
+      <Time>2009-12-05T19:10:49.4121629+01:00</Time>
+    </Item>
+    <Item>
+      <Source>1.wav</Source>
+      <Name>1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\1.xnb</Output>
+      <Time>2009-12-05T19:10:49.4151631+01:00</Time>
+    </Item>
+    <Item>
+      <Source>2.wav</Source>
+      <Name>2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\2.xnb</Output>
+      <Time>2009-12-05T19:10:49.4181632+01:00</Time>
+    </Item>
+    <Item>
+      <Source>3.wav</Source>
+      <Name>3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\3.xnb</Output>
+      <Time>2009-12-05T19:10:49.4351642+01:00</Time>
+    </Item>
+    <Item>
+      <Source>a.wav</Source>
+      <Name>a</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\a.xnb</Output>
+      <Time>2009-12-05T19:16:31.356721+01:00</Time>
+    </Item>
+    <Item>
+      <Source>c.wav</Source>
+      <Name>c</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\c.xnb</Output>
+      <Time>2009-12-05T19:16:31.3637214+01:00</Time>
+    </Item>
+    <Item>
+      <Source>s.wav</Source>
+      <Name>s</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\s.xnb</Output>
+      <Time>2009-12-05T19:16:31.4247249+01:00</Time>
+    </Item>
+    <Item>
+      <Source>4.wav</Source>
+      <Name>4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\4.xnb</Output>
+      <Time>2009-12-05T19:10:49.4371643+01:00</Time>
+    </Item>
+    <Item>
+      <Source>5.wav</Source>
+      <Name>5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\5.xnb</Output>
+      <Time>2009-12-05T19:10:49.4401645+01:00</Time>
+    </Item>
+    <Item>
+      <Source>6.wav</Source>
+      <Name>6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\6.xnb</Output>
+      <Time>2009-12-05T19:10:49.4431647+01:00</Time>
+    </Item>
+    <Item>
+      <Source>7.wav</Source>
+      <Name>7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\7.xnb</Output>
+      <Time>2009-12-05T19:10:49.4451648+01:00</Time>
+    </Item>
+    <Item>
+      <Source>8.wav</Source>
+      <Name>8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\8.xnb</Output>
+      <Time>2009-12-05T19:10:49.448165+01:00</Time>
+    </Item>
+    <Item>
+      <Source>9.wav</Source>
+      <Name>9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\9.xnb</Output>
+      <Time>2009-12-05T19:10:49.4501651+01:00</Time>
+    </Item>
+    <Item>
+      <Source>n.wav</Source>
+      <Name>n</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\n.xnb</Output>
+      <Time>2009-12-05T19:16:31.3757221+01:00</Time>
+    </Item>
+    <Item>
+      <Source>o.wav</Source>
+      <Name>o</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\o.xnb</Output>
+      <Time>2009-12-05T19:16:31.3787223+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t.wav</Source>
+      <Name>t</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t.xnb</Output>
+      <Time>2009-12-05T19:16:31.4287251+01:00</Time>
+    </Item>
+    <Item>
+      <Source>b.wav</Source>
+      <Name>b</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\b.xnb</Output>
+      <Time>2009-12-05T19:16:31.3607212+01:00</Time>
+    </Item>
+    <Item>
+      <Source>d.wav</Source>
+      <Name>d</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\d.xnb</Output>
+      <Time>2009-12-05T19:16:31.3667216+01:00</Time>
+    </Item>
+    <Item>
+      <Source>e.wav</Source>
+      <Name>e</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\e.xnb</Output>
+      <Time>2009-12-05T19:16:31.3687217+01:00</Time>
+    </Item>
+    <Item>
+      <Source>i.wav</Source>
+      <Name>i</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\i.xnb</Output>
+      <Time>2009-12-05T19:16:31.3707218+01:00</Time>
+    </Item>
+    <Item>
+      <Source>l.wav</Source>
+      <Name>l</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\l.xnb</Output>
+      <Time>2009-12-05T19:16:31.373722+01:00</Time>
+    </Item>
+    <Item>
+      <Source>r.wav</Source>
+      <Name>r</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\r.xnb</Output>
+      <Time>2009-12-05T19:16:31.4207247+01:00</Time>
+    </Item>
+    <Item>
+      <Source>heading.wav</Source>
+      <Name>heading</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\heading.xnb</Output>
+      <Time>2009-11-28T12:08:23.6155556+01:00</Time>
+    </Item>
+    <Item>
+      <Source>_.wav</Source>
+      <Name>_</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\_.xnb</Output>
+      <Time>2009-11-28T14:51:32.8266221+01:00</Time>
+    </Item>
+    <Item>
+      <Source>climb.wav</Source>
+      <Name>climb</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\climb.xnb</Output>
+      <Time>2009-12-05T19:24:28.3200017+01:00</Time>
+    </Item>
+    <Item>
+      <Source>descent.wav</Source>
+      <Name>descent</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\descent.xnb</Output>
+      <Time>2009-12-05T19:23:12.9046882+01:00</Time>
+    </Item>
+    <Item>
+      <Source>feet.wav</Source>
+      <Name>feet</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\feet.xnb</Output>
+      <Time>2009-11-28T12:08:22.0234645+01:00</Time>
+    </Item>
+    <Item>
+      <Source>flight.wav</Source>
+      <Name>flight</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\flight.xnb</Output>
+      <Time>2009-11-28T12:08:22.0544663+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hundred.wav</Source>
+      <Name>hundred</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\hundred.xnb</Output>
+      <Time>2009-11-28T12:08:23.7855653+01:00</Time>
+    </Item>
+    <Item>
+      <Source>level.wav</Source>
+      <Name>level</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\level.xnb</Output>
+      <Time>2009-11-28T12:08:23.7875654+01:00</Time>
+    </Item>
+    <Item>
+      <Source>speed.wav</Source>
+      <Name>speed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\speed.xnb</Output>
+      <Time>2009-11-28T12:08:23.7905656+01:00</Time>
+    </Item>
+    <Item>
+      <Source>thousand.wav</Source>
+      <Name>thousand</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\thousand.xnb</Output>
+      <Time>2009-11-28T12:08:23.7925657+01:00</Time>
+    </Item>
+    <Item>
+      <Source>to.wav</Source>
+      <Name>to</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\to.xnb</Output>
+      <Time>2009-11-28T12:08:23.796566+01:00</Time>
+    </Item>
+    <Item>
+      <Source>space.wav</Source>
+      <Name>space</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\space.xnb</Output>
+      <Time>2009-11-28T14:51:32.8266221+01:00</Time>
+    </Item>
+    <Item>
+      <Source>alarm.wav</Source>
+      <Name>alarm</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\alarm.xnb</Output>
+      <Time>2009-11-30T16:57:34.8332186+01:00</Time>
+    </Item>
+    <Item>
+      <Source>land.wav</Source>
+      <Name>land</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\land.xnb</Output>
+      <Time>2009-11-28T18:10:20.6522768+01:00</Time>
+    </Item>
+    <Item>
+      <Source>request.wav</Source>
+      <Name>request</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\request.xnb</Output>
+      <Time>2009-12-05T19:28:36.6822072+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_0.wav</Source>
+      <Name>disp_0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_0.xnb</Output>
+      <Time>2009-12-01T19:12:42.4927432+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_1.wav</Source>
+      <Name>disp_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_1.xnb</Output>
+      <Time>2009-12-01T19:12:42.4927432+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_2.wav</Source>
+      <Name>disp_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_2.xnb</Output>
+      <Time>2009-12-01T19:12:42.5083433+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_3.wav</Source>
+      <Name>disp_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_3.xnb</Output>
+      <Time>2009-12-01T19:12:42.5239433+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_4.wav</Source>
+      <Name>disp_4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_4.xnb</Output>
+      <Time>2009-12-01T19:12:42.5395433+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_5.wav</Source>
+      <Name>disp_5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_5.xnb</Output>
+      <Time>2009-12-01T19:12:42.5395433+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_6.wav</Source>
+      <Name>disp_6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_6.xnb</Output>
+      <Time>2009-12-01T19:12:42.5551433+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_7.wav</Source>
+      <Name>disp_7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_7.xnb</Output>
+      <Time>2009-12-01T19:12:42.5707434+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_8.wav</Source>
+      <Name>disp_8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_8.xnb</Output>
+      <Time>2009-12-01T19:12:42.5863434+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_9.wav</Source>
+      <Name>disp_9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_9.xnb</Output>
+      <Time>2009-12-01T19:12:42.5863434+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_a.wav</Source>
+      <Name>disp_a</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_a.xnb</Output>
+      <Time>2009-12-01T19:12:42.2743428+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_approach.wav</Source>
+      <Name>disp_approach</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_approach.xnb</Output>
+      <Time>2009-12-01T19:12:42.4615432+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_b.wav</Source>
+      <Name>disp_b</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_b.xnb</Output>
+      <Time>2009-12-01T19:12:42.2899429+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_c.wav</Source>
+      <Name>disp_c</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_c.xnb</Output>
+      <Time>2009-12-01T19:12:42.2899429+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_climb.wav</Source>
+      <Name>disp_climb</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_climb.xnb</Output>
+      <Time>2009-12-01T19:12:42.3367429+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_course.wav</Source>
+      <Name>disp_course</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_course.xnb</Output>
+      <Time>2009-12-01T19:12:42.4615432+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_d.wav</Source>
+      <Name>disp_d</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_d.xnb</Output>
+      <Time>2009-12-01T19:12:42.3055429+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_descent.wav</Source>
+      <Name>disp_descent</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_descent.xnb</Output>
+      <Time>2009-12-01T19:12:42.3211429+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_e.wav</Source>
+      <Name>disp_e</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_e.xnb</Output>
+      <Time>2009-12-01T19:12:42.3211429+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_feets.wav</Source>
+      <Name>disp_feets</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_feets.xnb</Output>
+      <Time>2009-12-01T19:12:42.5551433+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_i.wav</Source>
+      <Name>disp_i</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_i.xnb</Output>
+      <Time>2009-12-01T19:12:42.3367429+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_knots.wav</Source>
+      <Name>disp_knots</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_knots.xnb</Output>
+      <Time>2009-12-01T19:12:42.4771432+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_l.wav</Source>
+      <Name>disp_l</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_l.xnb</Output>
+      <Time>2009-12-01T19:12:42.352343+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_n.wav</Source>
+      <Name>disp_n</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_n.xnb</Output>
+      <Time>2009-12-01T19:12:42.367943+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_o.wav</Source>
+      <Name>disp_o</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_o.xnb</Output>
+      <Time>2009-12-01T19:12:42.367943+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_r.wav</Source>
+      <Name>disp_r</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_r.xnb</Output>
+      <Time>2009-12-01T19:12:42.383543+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_s.wav</Source>
+      <Name>disp_s</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_s.xnb</Output>
+      <Time>2009-12-01T19:12:42.3991431+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_speed.wav</Source>
+      <Name>disp_speed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_speed.xnb</Output>
+      <Time>2009-12-01T19:12:42.383543+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_t.wav</Source>
+      <Name>disp_t</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_t.xnb</Output>
+      <Time>2009-12-01T19:12:42.4459431+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fuel10.wav</Source>
+      <Name>fuel10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\fuel10.xnb</Output>
+      <Time>2009-12-05T19:29:56.6757826+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fuel5.wav</Source>
+      <Name>fuel5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\fuel5.xnb</Output>
+      <Time>2009-12-05T19:30:35.1399826+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mayday.wav</Source>
+      <Name>mayday</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\mayday.xnb</Output>
+      <Time>2009-12-05T19:50:25.5090679+01:00</Time>
+    </Item>
+    <Item>
+      <Source>left.wav</Source>
+      <Name>left</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\left.xnb</Output>
+      <Time>2009-12-06T16:39:53.0644538+01:00</Time>
+    </Item>
+    <Item>
+      <Source>right.wav</Source>
+      <Name>right</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\right.xnb</Output>
+      <Time>2009-12-06T16:39:53.0707039+01:00</Time>
+    </Item>
+    <Item>
+      <Source>goingaround.wav</Source>
+      <Name>goingaround</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\goingaround.xnb</Output>
+      <Time>2009-12-11T10:38:04.2758464+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_0.wav</Source>
+      <Name>t_0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_0.xnb</Output>
+      <Time>2009-12-10T15:45:11.0409498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_1.wav</Source>
+      <Name>t_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_1.xnb</Output>
+      <Time>2009-12-10T15:45:11.0409498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_2.wav</Source>
+      <Name>t_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_2.xnb</Output>
+      <Time>2009-12-10T15:45:11.0409498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_3.wav</Source>
+      <Name>t_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_3.xnb</Output>
+      <Time>2009-12-10T15:45:11.0409498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_4.wav</Source>
+      <Name>t_4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_4.xnb</Output>
+      <Time>2009-12-10T15:45:11.0565498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_5.wav</Source>
+      <Name>t_5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_5.xnb</Output>
+      <Time>2009-12-10T15:45:11.0721499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_6.wav</Source>
+      <Name>t_6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_6.xnb</Output>
+      <Time>2009-12-10T15:45:11.0721499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_7.wav</Source>
+      <Name>t_7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_7.xnb</Output>
+      <Time>2009-12-10T15:45:11.0721499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_8.wav</Source>
+      <Name>t_8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_8.xnb</Output>
+      <Time>2009-12-10T15:45:11.0721499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_9.wav</Source>
+      <Name>t_9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_9.xnb</Output>
+      <Time>2009-12-10T15:45:11.0721499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_a.wav</Source>
+      <Name>t_a</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_a.xnb</Output>
+      <Time>2009-12-10T15:45:11.0721499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_b.wav</Source>
+      <Name>t_b</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_b.xnb</Output>
+      <Time>2009-12-10T15:45:11.0877499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_c.wav</Source>
+      <Name>t_c</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_c.xnb</Output>
+      <Time>2009-12-10T15:45:11.0877499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_cancel.wav</Source>
+      <Name>t_cancel</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_cancel.xnb</Output>
+      <Time>2009-12-10T15:45:11.0877499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_cleared.wav</Source>
+      <Name>t_cleared</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_cleared.xnb</Output>
+      <Time>2009-12-10T15:45:11.0877499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_d.wav</Source>
+      <Name>t_d</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_d.xnb</Output>
+      <Time>2009-12-10T15:45:11.0877499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_e.wav</Source>
+      <Name>t_e</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_e.xnb</Output>
+      <Time>2009-12-10T15:45:11.1033499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_i.wav</Source>
+      <Name>t_i</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_i.xnb</Output>
+      <Time>2009-12-10T15:45:11.1033499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_l.wav</Source>
+      <Name>t_l</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_l.xnb</Output>
+      <Time>2009-12-10T15:45:11.1033499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_left.wav</Source>
+      <Name>t_left</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_left.xnb</Output>
+      <Time>2009-12-10T15:45:11.1033499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_n.wav</Source>
+      <Name>t_n</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_n.xnb</Output>
+      <Time>2009-12-10T15:45:11.3061503+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_o.wav</Source>
+      <Name>t_o</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_o.xnb</Output>
+      <Time>2009-12-10T15:45:11.3373503+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_r.wav</Source>
+      <Name>t_r</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_r.xnb</Output>
+      <Time>2009-12-10T15:45:11.3373503+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_right.wav</Source>
+      <Name>t_right</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_right.xnb</Output>
+      <Time>2009-12-10T15:45:11.3529504+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_runwayback.wav</Source>
+      <Name>t_runwayback</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_runwayback.xnb</Output>
+      <Time>2009-12-12T23:07:28.7571202+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_runwayout.wav</Source>
+      <Name>t_runwayout</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_runwayout.xnb</Output>
+      <Time>2009-12-12T23:07:28.7727203+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_s.wav</Source>
+      <Name>t_s</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_s.xnb</Output>
+      <Time>2009-12-10T15:45:11.3997504+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_t.wav</Source>
+      <Name>t_t</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_t.xnb</Output>
+      <Time>2009-12-10T15:45:11.3997504+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_toobig.wav</Source>
+      <Name>t_toobig</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_toobig.xnb</Output>
+      <Time>2009-12-10T15:45:11.4153505+01:00</Time>
+    </Item>
+    <Item>
+      <Source>approach.wav</Source>
+      <Name>approach</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\approach.xnb</Output>
+      <Time>2009-12-10T16:19:41.3704089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_hundred.wav</Source>
+      <Name>disp_hundred</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_hundred.xnb</Output>
+      <Time>2009-12-12T10:34:15.7622532+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_left.wav</Source>
+      <Name>disp_left</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_left.xnb</Output>
+      <Time>2009-12-12T10:34:15.7778532+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_right.wav</Source>
+      <Name>disp_right</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_right.xnb</Output>
+      <Time>2009-12-12T10:34:15.8558533+01:00</Time>
+    </Item>
+    <Item>
+      <Source>disp_thousand.wav</Source>
+      <Name>disp_thousand</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\disp_thousand.xnb</Output>
+      <Time>2009-12-12T10:34:15.7622532+01:00</Time>
+    </Item>
+    <Item>
+      <Source>t_runway.wav</Source>
+      <Name>t_runway</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\t_runway.xnb</Output>
+      <Time>2009-12-12T23:07:28.7571202+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747\747.fbx</Source>
+      <Name>Modely\747\747</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747\747.xnb</Output>
+      <Time>2009-12-06T10:43:38.4343876+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Modely\747\747_0.xml</Key>
+        <Value>2009-12-13T14:10:22.8417327+01:00</Value>
+      </Dependency>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747\B747silv_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747\B747side_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747\B747taiB_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747\B747tail_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modely\A340\a340.fbx</Source>
+      <Name>Modely\A340\a340</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340\a340.xnb</Output>
+      <Time>2009-12-06T10:43:40.1035905+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Modely\A340\a340_0.xml</Key>
+        <Value>2009-12-13T14:10:26.0865384+01:00</Value>
+      </Dependency>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340\A340-300-AIRFRANCE-M_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\cessna.fbx</Source>
+      <Name>Modely\Cesna\cessna</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\cessna.xnb</Output>
+      <Time>2009-12-06T10:43:42.0067938+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Modely\Cesna\cessna_0.xml</Key>
+        <Value>2009-12-13T14:10:27.8337414+01:00</Value>
+      </Dependency>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\mapalas1_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\mapalit_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\maplate2_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\rueda_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modely\747_BRI\747.fbx</Source>
+      <Name>Modely\747_BRI\747</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_BRI\747.xnb</Output>
+      <Time>2009-12-08T15:09:19.6448606+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Modely\747_BRI\747_0.xml</Key>
+        <Value>2009-12-13T14:10:30.6261463+01:00</Value>
+      </Dependency>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_BRI\B747silv_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_BRI\B747side_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_BRI\B747taiB_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_BRI\B747tail_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modely\747_CSA\747.fbx</Source>
+      <Name>Modely\747_CSA\747</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_CSA\747.xnb</Output>
+      <Time>2009-12-08T15:09:16.2752546+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Modely\747_CSA\747_0.xml</Key>
+        <Value>2009-12-13T14:10:34.5573533+01:00</Value>
+      </Dependency>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_CSA\B747silv_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_CSA\B747side_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_CSA\B747taiB_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_CSA\B747tail_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modely\747_OCN\747.fbx</Source>
+      <Name>Modely\747_OCN\747</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_OCN\747.xnb</Output>
+      <Time>2009-12-08T15:09:11.9852471+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Modely\747_OCN\747_0.xml</Key>
+        <Value>2009-12-13T14:10:38.3481599+01:00</Value>
+      </Dependency>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_OCN\B747silv_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_OCN\B747side_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_OCN\B747taiB_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_OCN\B747tail_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modely\747_DEL\747.fbx</Source>
+      <Name>Modely\747_DEL\747</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_DEL\747.xnb</Output>
+      <Time>2009-12-08T15:09:14.777652+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Modely\747_DEL\747_0.xml</Key>
+        <Value>2009-12-13T14:10:42.2325667+01:00</Value>
+      </Dependency>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_DEL\B747silv_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_DEL\B747side_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_DEL\B747taiB_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_DEL\B747tail_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modely\747_ATL\747.fbx</Source>
+      <Name>Modely\747_ATL\747</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_ATL\747.xnb</Output>
+      <Time>2009-12-08T15:09:13.3112494+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Modely\747_ATL\747_0.xml</Key>
+        <Value>2009-12-13T14:10:46.0701735+01:00</Value>
+      </Dependency>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_ATL\B747silv_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_ATL\B747side_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_ATL\B747taiB_0.xnb</Request>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_ATL\B747tail_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modely\A340_ATL\a340.fbx</Source>
+      <Name>Modely\A340_ATL\a340</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_ATL\a340.xnb</Output>
+      <Time>2009-12-13T14:08:36.8863466+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Modely\A340_ATL\a340_0.xml</Key>
+        <Value>2009-12-13T14:10:49.2525791+01:00</Value>
+      </Dependency>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_ATL\A340-300-AIRFRANCE-M_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modely\A340_BRI\a340.fbx</Source>
+      <Name>Modely\A340_BRI\a340</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_BRI\a340.xnb</Output>
+      <Time>2009-12-13T14:08:35.1079434+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Modely\A340_BRI\a340_0.xml</Key>
+        <Value>2009-12-13T14:10:51.7173834+01:00</Value>
+      </Dependency>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_BRI\A340-300-AIRFRANCE-M_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modely\A340_CSA\a340.fbx</Source>
+      <Name>Modely\A340_CSA\a340</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_CSA\a340.xnb</Output>
+      <Time>2009-12-13T14:08:42.1279558+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Modely\A340_CSA\a340_0.xml</Key>
+        <Value>2009-12-13T14:10:54.1353876+01:00</Value>
+      </Dependency>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_CSA\A340-300-AIRFRANCE-M_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modely\A340_DEL\a340.fbx</Source>
+      <Name>Modely\A340_DEL\a340</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_DEL\a340.xnb</Output>
+      <Time>2009-12-13T14:08:38.5867496+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Modely\A340_DEL\a340_0.xml</Key>
+        <Value>2009-12-13T14:10:56.5845919+01:00</Value>
+      </Dependency>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_DEL\A340-300-AIRFRANCE-M_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>effect.fx</Source>
+      <Name>effect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\effect.xnb</Output>
+      <Time>2009-12-06T21:45:46.4723001+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\bbEffect.fx</Source>
+      <Name>Terrain\bbEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\bbEffect.xnb</Output>
+      <Time>2009-12-08T15:09:08.7248414+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\dome.x</Source>
+      <Name>Terrain\dome</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\dome.xnb</Output>
+      <Time>2009-12-06T21:45:44.5846968+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Terrain\dome_0.xml</Key>
+        <Value>2009-12-13T14:10:57.6921939+01:00</Value>
+      </Dependency>
+      <Request>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\cloudMap_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modely\747\747.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Modely\747\747_0.xml</Output>
+      <Time>2009-12-06T10:43:38.4343876+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747\B747silv.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747\B747silv_0.xnb</Output>
+      <Time>2009-12-06T10:43:38.4499876+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747\B747side.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747\B747side_0.xnb</Output>
+      <Time>2009-12-06T10:43:38.5123877+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747\B747taiB.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747\B747taiB_0.xnb</Output>
+      <Time>2009-12-06T10:43:38.4655876+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747\B747tail.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747\B747tail_0.xnb</Output>
+      <Time>2009-12-06T10:43:38.5279877+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340\a340.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Modely\A340\a340_0.xml</Output>
+      <Time>2009-12-06T10:43:40.1035905+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340\A340-300-AIRFRANCE-M.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340\A340-300-AIRFRANCE-M_0.xnb</Output>
+      <Time>2009-12-06T10:43:40.1191905+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\cessna.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Modely\Cesna\cessna_0.xml</Output>
+      <Time>2009-12-06T10:43:42.0067938+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\mapalas1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\mapalas1_0.xnb</Output>
+      <Time>2009-12-06T10:43:41.9911938+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\mapalit.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\mapalit_0.xnb</Output>
+      <Time>2009-12-06T10:43:41.8819936+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\maplate2.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\maplate2_0.xnb</Output>
+      <Time>2009-12-12T10:34:15.3410524+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\Cesna\rueda.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\Cesna\rueda_0.xnb</Output>
+      <Time>2009-12-06T10:43:42.0067938+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_BRI\747.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Modely\747_BRI\747_0.xml</Output>
+      <Time>2009-12-08T15:09:19.6448606+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_BRI\B747silv.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_BRI\B747silv_0.xnb</Output>
+      <Time>2009-12-08T15:09:19.6604606+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_BRI\B747side.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_BRI\B747side_0.xnb</Output>
+      <Time>2009-12-13T14:08:39.0859504+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_BRI\B747taiB.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_BRI\B747taiB_0.xnb</Output>
+      <Time>2009-12-08T15:09:19.6760606+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_BRI\B747tail.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_BRI\B747tail_0.xnb</Output>
+      <Time>2009-12-08T15:09:19.6916606+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_CSA\747.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Modely\747_CSA\747_0.xml</Output>
+      <Time>2009-12-08T15:09:16.2752546+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_CSA\B747silv.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_CSA\B747silv_0.xnb</Output>
+      <Time>2009-12-08T15:09:16.2908547+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_CSA\B747side.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_CSA\B747side_0.xnb</Output>
+      <Time>2009-12-08T15:09:16.3376548+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_CSA\B747taiB.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_CSA\B747taiB_0.xnb</Output>
+      <Time>2009-12-08T15:09:16.3220547+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_CSA\B747tail.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_CSA\B747tail_0.xnb</Output>
+      <Time>2009-12-08T15:09:16.3532548+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_OCN\747.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Modely\747_OCN\747_0.xml</Output>
+      <Time>2009-12-08T15:09:11.9852471+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_OCN\B747silv.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_OCN\B747silv_0.xnb</Output>
+      <Time>2009-12-08T15:09:11.9852471+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_OCN\B747side.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_OCN\B747side_0.xnb</Output>
+      <Time>2009-12-08T15:09:12.0164472+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_OCN\B747taiB.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_OCN\B747taiB_0.xnb</Output>
+      <Time>2009-12-08T15:09:12.0008471+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_OCN\B747tail.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_OCN\B747tail_0.xnb</Output>
+      <Time>2009-12-08T15:09:12.0164472+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_DEL\747.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Modely\747_DEL\747_0.xml</Output>
+      <Time>2009-12-08T15:09:14.777652+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_DEL\B747silv.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_DEL\B747silv_0.xnb</Output>
+      <Time>2009-12-08T15:09:14.777652+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_DEL\B747side.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_DEL\B747side_0.xnb</Output>
+      <Time>2009-12-08T15:09:14.8088521+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_DEL\B747taiB.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_DEL\B747taiB_0.xnb</Output>
+      <Time>2009-12-08T15:09:14.793252+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_DEL\B747tail.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_DEL\B747tail_0.xnb</Output>
+      <Time>2009-12-08T15:09:14.8088521+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_ATL\747.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Modely\747_ATL\747_0.xml</Output>
+      <Time>2009-12-08T15:09:13.3112494+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_ATL\B747silv.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_ATL\B747silv_0.xnb</Output>
+      <Time>2009-12-08T15:09:13.3268495+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_ATL\B747side.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_ATL\B747side_0.xnb</Output>
+      <Time>2009-12-08T15:09:13.3424495+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_ATL\B747taiB.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_ATL\B747taiB_0.xnb</Output>
+      <Time>2009-12-08T15:09:13.3424495+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\747_ATL\B747tail.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\747_ATL\B747tail_0.xnb</Output>
+      <Time>2009-12-08T15:09:13.3736496+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_ATL\a340.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Modely\A340_ATL\a340_0.xml</Output>
+      <Time>2009-12-13T14:08:36.8863466+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_ATL\A340-300-AIRFRANCE-M.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_ATL\A340-300-AIRFRANCE-M_0.xnb</Output>
+      <Time>2009-12-13T14:08:36.9019466+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_BRI\a340.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Modely\A340_BRI\a340_0.xml</Output>
+      <Time>2009-12-13T14:08:35.1079434+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_BRI\A340-300-AIRFRANCE-M.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_BRI\A340-300-AIRFRANCE-M_0.xnb</Output>
+      <Time>2009-12-13T14:08:35.1079434+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_CSA\a340.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Modely\A340_CSA\a340_0.xml</Output>
+      <Time>2009-12-13T14:08:42.1279558+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_CSA\A340-300-AIRFRANCE-M.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_CSA\A340-300-AIRFRANCE-M_0.xnb</Output>
+      <Time>2009-12-13T14:08:42.1279558+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_DEL\a340.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Modely\A340_DEL\a340_0.xml</Output>
+      <Time>2009-12-13T14:08:38.5867496+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Modely\A340_DEL\A340-300-AIRFRANCE-M.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Modely\A340_DEL\A340-300-AIRFRANCE-M_0.xnb</Output>
+      <Time>2009-12-13T14:08:38.6179496+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\dome.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Terrain\dome_0.xml</Output>
+      <Time>2009-12-06T21:45:44.5846968+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\cloudMap.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\Terrain\cloudMap_0.xnb</Output>
+      <Time>2009-12-06T21:45:44.5066967+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\documents\cvut\07 semestr\Y36PHA\semestralka\project\SkyControl\SkyControl\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-10-07T19:32:58.7325436+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

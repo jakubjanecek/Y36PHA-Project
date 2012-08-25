@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html lang="cs" xml:lang="cs" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css" title="Stylesheet"/>
+		<meta name="description" content="Stránky hry SkyControl - simulátoru řízení letového provozu"/>
+		<meta name="author" content="Petr Marek (karei@centrum.cz)"/>
+		<meta name="keywords" content="atc,air,traffic,control,game,řízení,letového,provozu,hra,simulator,y36pha,pha"/>
+		<meta name="Language" content="Čeština"/>
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8"/>
+		<meta http-equiv="Content-Language" content="cs"/>
+		<meta name="date" content="18. 10. 2009"/>
+		<meta name="robots" content="INDEX,FOLLOW,ALL"/>
+		<title>Y36PHA - Sky Control</title>
+	</head>
+
+	<body>
+		<h1><img src="img/skycontrol2.jpg" alt="Sky Control - semestrální práce Y36PHA"/></h1>
+
+		<div id="navigace">
+			<a href="index.html">Úvod</a>
+			<a href="design.html">Design</a>
+			Screenshoty
+			<a href="downloads.html">Ke stažení</a>
+			<a href="team.html">Tým</a>
+		</div>
+
+		<div id="obsah">
+			<a href="img/img001.jpg"><img src="tmb/tmb001.jpg" alt="Main screen"/></a>
+		</div>
+	</body>
+</html>

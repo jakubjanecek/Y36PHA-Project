@@ -1,0 +1,797 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/y36pha/!svn/ver/152/SkyControl/SkyControl/Content
+END
+d.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/d.wav
+END
+t_2.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_2.wav
+END
+t_4.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_4.wav
+END
+climb.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/climb.wav
+END
+Blesk.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/116/SkyControl/SkyControl/Content/Blesk.png
+END
+t_6.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_6.wav
+END
+t_8.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_8.wav
+END
+Storm.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/116/SkyControl/SkyControl/Content/Storm.png
+END
+l.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/l.wav
+END
+gameover.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/y36pha/!svn/ver/54/SkyControl/SkyControl/Content/gameover.png
+END
+n.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/n.wav
+END
+approach.wav
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/y36pha/!svn/ver/123/SkyControl/SkyControl/Content/approach.wav
+END
+disp_a.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_a.wav
+END
+Exit.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/42/SkyControl/SkyControl/Content/Exit.png
+END
+Runway2m5.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/y36pha/!svn/ver/30/SkyControl/SkyControl/Content/Runway2m5.png
+END
+r.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/r.wav
+END
+disp_c.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_c.wav
+END
+t.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/t.wav
+END
+scorehud.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/y36pha/!svn/ver/55/SkyControl/SkyControl/Content/scorehud.png
+END
+disp_e.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_e.wav
+END
+disp_descent.wav
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_descent.wav
+END
+disp_climb.wav
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_climb.wav
+END
+disp_i.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_i.wav
+END
+t_cancel.wav
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_cancel.wav
+END
+disp_hundred.wav
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/y36pha/!svn/ver/133/SkyControl/SkyControl/Content/disp_hundred.wav
+END
+goingaround.wav
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/y36pha/!svn/ver/127/SkyControl/SkyControl/Content/goingaround.wav
+END
+disp_o.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_o.wav
+END
+disp_s.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_s.wav
+END
+HUD20.spritefont
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/y36pha/!svn/ver/46/SkyControl/SkyControl/Content/HUD20.spritefont
+END
+HUD14.spritefont
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/y36pha/!svn/ver/46/SkyControl/SkyControl/Content/HUD14.spritefont
+END
+t_runwayback.wav
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/y36pha/!svn/ver/140/SkyControl/SkyControl/Content/t_runwayback.wav
+END
+t_b.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_b.wav
+END
+disp_thousand.wav
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/y36pha/!svn/ver/133/SkyControl/SkyControl/Content/disp_thousand.wav
+END
+t_d.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_d.wav
+END
+ControlPanel.PNG.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/y36pha/!svn/ver/97/SkyControl/SkyControl/Content/ControlPanel.PNG.jpg
+END
+t_runway.wav
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/y36pha/!svn/ver/140/SkyControl/SkyControl/Content/t_runway.wav
+END
+RedArrow.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/y36pha/!svn/ver/116/SkyControl/SkyControl/Content/RedArrow.png
+END
+t_l.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_l.wav
+END
+land.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/66/SkyControl/SkyControl/Content/land.wav
+END
+t_n.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_n.wav
+END
+t_r.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_r.wav
+END
+descent.wav
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/descent.wav
+END
+t_t.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_t.wav
+END
+hundred.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/y36pha/!svn/ver/61/SkyControl/SkyControl/Content/hundred.wav
+END
+left.wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/y36pha/!svn/ver/109/SkyControl/SkyControl/Content/left.wav
+END
+RunwayTexture.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/y36pha/!svn/ver/113/SkyControl/SkyControl/Content/RunwayTexture.PNG
+END
+Runway1m5.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/y36pha/!svn/ver/30/SkyControl/SkyControl/Content/Runway1m5.png
+END
+t_runwayout.wav
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/y36pha/!svn/ver/140/SkyControl/SkyControl/Content/t_runwayout.wav
+END
+1.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/1.wav
+END
+3.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/3.wav
+END
+5.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/5.wav
+END
+7.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/7.wav
+END
+white.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/y36pha/!svn/ver/20/SkyControl/SkyControl/Content/white.png
+END
+9.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/9.wav
+END
+disp_knots.wav
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_knots.wav
+END
+disp_0.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_0.wav
+END
+CourseSetter.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/y36pha/!svn/ver/44/SkyControl/SkyControl/Content/CourseSetter.PNG
+END
+disp_2.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_2.wav
+END
+disp_4.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_4.wav
+END
+feet.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/61/SkyControl/SkyControl/Content/feet.wav
+END
+disp_6.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_6.wav
+END
+disp_8.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_8.wav
+END
+ControlPanel.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/y36pha/!svn/ver/108/SkyControl/SkyControl/Content/ControlPanel.png
+END
+fuel10.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/fuel10.wav
+END
+t_toobig.wav
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_toobig.wav
+END
+Main screen.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/y36pha/!svn/ver/27/SkyControl/SkyControl/Content/Main%20screen.jpg
+END
+disp_left.wav
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/y36pha/!svn/ver/133/SkyControl/SkyControl/Content/disp_left.wav
+END
+_.wav
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/y36pha/!svn/ver/63/SkyControl/SkyControl/Content/_.wav
+END
+a.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/a.wav
+END
+c.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/c.wav
+END
+to.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/61/SkyControl/SkyControl/Content/to.wav
+END
+t_1.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_1.wav
+END
+e.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/e.wav
+END
+t_3.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_3.wav
+END
+thousand.wav
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/y36pha/!svn/ver/61/SkyControl/SkyControl/Content/thousand.wav
+END
+t_5.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_5.wav
+END
+i.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/i.wav
+END
+t_7.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_7.wav
+END
+t_9.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_9.wav
+END
+o.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/o.wav
+END
+heading.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/y36pha/!svn/ver/58/SkyControl/SkyControl/Content/heading.wav
+END
+t_right.wav
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_right.wav
+END
+speed.wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/y36pha/!svn/ver/61/SkyControl/SkyControl/Content/speed.wav
+END
+disp_b.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_b.wav
+END
+s.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/s.wav
+END
+disp_d.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_d.wav
+END
+disp_l.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_l.wav
+END
+effect.fx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/110/SkyControl/SkyControl/Content/effect.fx
+END
+disp_n.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_n.wav
+END
+t_left.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_left.wav
+END
+disp_speed.wav
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_speed.wav
+END
+disp_r.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_r.wav
+END
+fuel5.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/fuel5.wav
+END
+t_cleared.wav
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_cleared.wav
+END
+Content.contentproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/y36pha/!svn/ver/151/SkyControl/SkyControl/Content/Content.contentproj
+END
+disp_t.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_t.wav
+END
+MenuItem.spritefont
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/y36pha/!svn/ver/27/SkyControl/SkyControl/Content/MenuItem.spritefont
+END
+alarm.wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/y36pha/!svn/ver/77/SkyControl/SkyControl/Content/alarm.wav
+END
+CallSign.spritefont
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/y36pha/!svn/ver/33/SkyControl/SkyControl/Content/CallSign.spritefont
+END
+MenuHeadline.spritefont
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/y36pha/!svn/ver/27/SkyControl/SkyControl/Content/MenuHeadline.spritefont
+END
+t_a.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_a.wav
+END
+t_c.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_c.wav
+END
+t_e.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_e.wav
+END
+level.wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/y36pha/!svn/ver/61/SkyControl/SkyControl/Content/level.wav
+END
+t_i.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_i.wav
+END
+Runway2m.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/y36pha/!svn/ver/30/SkyControl/SkyControl/Content/Runway2m.png
+END
+disp_approach.wav
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_approach.wav
+END
+disp_course.wav
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_course.wav
+END
+t_o.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_o.wav
+END
+mayday.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/mayday.wav
+END
+t_s.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_s.wav
+END
+request.wav
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/request.wav
+END
+space.wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/y36pha/!svn/ver/63/SkyControl/SkyControl/Content/space.wav
+END
+0.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/0.wav
+END
+2.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/2.wav
+END
+4.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/4.wav
+END
+6.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/6.wav
+END
+8.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/8.wav
+END
+levelfinished.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/y36pha/!svn/ver/54/SkyControl/SkyControl/Content/levelfinished.png
+END
+Menu panel.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/y36pha/!svn/ver/27/SkyControl/SkyControl/Content/Menu%20panel.png
+END
+right.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/109/SkyControl/SkyControl/Content/right.wav
+END
+disp_1.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_1.wav
+END
+disp_3.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_3.wav
+END
+disp_5.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_5.wav
+END
+disp_7.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_7.wav
+END
+disp_feets.wav
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_feets.wav
+END
+disp_9.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/88/SkyControl/SkyControl/Content/disp_9.wav
+END
+disp_right.wav
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/y36pha/!svn/ver/133/SkyControl/SkyControl/Content/disp_right.wav
+END
+congrats.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/y36pha/!svn/ver/54/SkyControl/SkyControl/Content/congrats.png
+END
+flight.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/y36pha/!svn/ver/61/SkyControl/SkyControl/Content/flight.wav
+END
+b.wav
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/y36pha/!svn/ver/101/SkyControl/SkyControl/Content/b.wav
+END
+t_0.wav
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/y36pha/!svn/ver/122/SkyControl/SkyControl/Content/t_0.wav
+END
